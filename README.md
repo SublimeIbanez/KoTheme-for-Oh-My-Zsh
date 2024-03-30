@@ -6,5 +6,6 @@
 5. Save changes
 
 ## See picture for how theme looks:
-![image](https://github.com/JoshBenn/KoTheme-for-Oh-My-Zsh/assets/134667610/8ff55653-dcf0-47f0-96a2-4fd33752e0ad)
+![image](https://github.com/JoshBenn/KoTheme-for-Oh-My-Zsh/assets/134667610/5a2a211a-f941-47b7-9499-fa96ac753955)
+
 
