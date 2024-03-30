@@ -6,5 +6,5 @@
 5. Save changes
 
 ## See picture for how theme looks:
-![kozsh](https://github.com/JoshBenn/KoTheme-for-zsh/assets/134667610/7b92b63d-e241-407c-af1d-9700f367c699)
+![image](https://github.com/JoshBenn/KoTheme-for-Oh-My-Zsh/assets/134667610/8ff55653-dcf0-47f0-96a2-4fd33752e0ad)
 
